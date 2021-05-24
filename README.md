@@ -25,4 +25,7 @@ tkinter
 
 ## About packages:
 
+> *Requests---*Requests module is used to send HTTP/1.1 requests easily.
+> The requests.get(url) method sends a GET request to the specified url.
+
 
