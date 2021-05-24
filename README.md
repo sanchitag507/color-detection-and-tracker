@@ -5,9 +5,10 @@ It uses basic computer vision tools to achieve this and is deployed using tkinte
 
 
 #Packages used
-numpy
-requests
-pandas
-opencv-contrib-python
-Pillow
+
+numpy,
+requests,
+pandas,
+opencv-python,
+Pillow(PIL),
 tkinter
